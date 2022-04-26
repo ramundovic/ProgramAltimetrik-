@@ -17,3 +17,5 @@ Links provide in the document:
 -https://www.atlassian.com/git/tutorials/merging-vs-rebasing?section=workflow-walkthrough (Merging vs rebasing) 
 
 -https://www.youtube.com/watch?v=gctc2Un5iRY&ab_channel=C%C3%B3digoyCaf%C3%A9 (Merge y Rebase) 
+
+-https://dev.to/dillionmegida/syntax-and-basic-constructs-65 (Basic Javascript) 
