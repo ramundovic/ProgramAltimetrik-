@@ -11,3 +11,7 @@ Links provide in the document:
 -https://www.flagship.io/git-branching-strategies/ (Git Branching strategies)
 
 -https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy (Best strategies in Git)
+
+-https://medium.com/swlh/squash-and-rebase-git-basics-5cb1be1e0dac#:~:text=With%20%E2%80%9Csquash%E2%80%9D%2C%20you%20can,they're%20now%20just%201 (Rebase vs Squash)
+
+-https://www.atlassian.com/git/tutorials/merging-vs-rebasing?section=workflow-walkthrough (Merging vs rebasing) 
