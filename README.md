@@ -15,3 +15,5 @@ Links provide in the document:
 -https://medium.com/swlh/squash-and-rebase-git-basics-5cb1be1e0dac#:~:text=With%20%E2%80%9Csquash%E2%80%9D%2C%20you%20can,they're%20now%20just%201 (Rebase vs Squash)
 
 -https://www.atlassian.com/git/tutorials/merging-vs-rebasing?section=workflow-walkthrough (Merging vs rebasing) 
+
+-https://www.youtube.com/watch?v=gctc2Un5iRY&ab_channel=C%C3%B3digoyCaf%C3%A9 (Merge y Rebase) 
